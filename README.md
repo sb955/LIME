@@ -1,3 +1,3 @@
 ML coding project during masters.
-May the code help some other lonely students. 
-Contact me for questions.
+May the code help other students. 
+Contact for questions.
